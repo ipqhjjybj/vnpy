@@ -22,6 +22,7 @@ python 2.7 only
 之后运行
 
 python main.py
+
 nohup bash start_all.sh &
 
 即可运行程序
