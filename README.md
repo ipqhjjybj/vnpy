@@ -25,3 +25,7 @@ python main.py
 nohup bash start_all.sh &
 
 即可运行程序
+
+
+#License
+MIT License
